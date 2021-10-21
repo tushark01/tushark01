@@ -33,17 +33,12 @@
 - 🤔 I’m looking for help with currently nothing 🎶
 - ⚡ Hobby: Checkout my hobby [here](https://instagram.com/_atpixel_?utm_medium=copy_link)
 
-### I am currently working on:
-- ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
-- [Sartorius - Cell Instance Segmentation (Kaggle)](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)
-- [PetFinder.my - Pawpularity Contest (Kaggle)](https://www.kaggle.com/c/petfinder-pawpularity-score)
 
 ### Recent Projects 🎉🎉
-- [Harvestify](https://github.com/Gladiator07/Harvestify)
-- [JARVIS](https://github.com/Gladiator07/JARVIS)
-- [Text to Image Synthesis using AttnGAN](https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN)
-- [Handwritten Digit Classification in pure C++ (without any external libraries)](https://github.com/Gladiator07/Neural-Network-from-scratch-in-CPP)
----
+- [FirstAidBot](https://github.com/tushark01/First-Aid-ChatBot)
+- [FakeInstaDetection using ANNs](https://github.com/tushark01/Fake_Instagram_Detection_Using_ANNs)
+- [Real-Time-Stock-Market-Analysis](https://github.com/tushark01/Real-Time-Stock-Market-Analysis)
+
 
 ### Tools and Technologies:
 
@@ -51,11 +46,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/534px-Matlab_Logo.png"></code>
+<code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg&psig=AOvVaw16GGl2oclFpiikWFLvrtKd&ust=1634907444732000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjKrf7G2_MCFQAAAAAdAAAAABAD"></code>
 <code><img height="30" src="https://ih1.redbubble.net/image.696005995.4114/st,small,507x507-pad,600x600,f8f8f8.jpg"></code>
 
 #### Libraries/Frameworks
