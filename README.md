@@ -37,6 +37,7 @@
 ### Recent Projects 🎉🎉
 - [FirstAidBot](https://github.com/tushark01/First-Aid-ChatBot)
 - [FakeInstaDetection using ANNs](https://github.com/tushark01/Fake_Instagram_Detection_Using_ANNs)
+- [ML-cropRecommender](https://github.com/tushark01/ML-Crop-Recommender)
 - [Real-Time-Stock-Market-Analysis](https://github.com/tushark01/Real-Time-Stock-Market-Analysis)
 
 
