@@ -8,7 +8,7 @@
 <h5 align="center"><i>(You can reach to me via any social-media platforms below for any discussion!)</i></h5>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Atharva_Ingle-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tushar-khete-4016201a0//)](https://www.linkedin.com/in/tushar-khete-4016201a0//)
+[![Linkedin Badge](https://img.shields.io/badge/-Tushar_Khete-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tushar-khete-4016201a0//)](https://www.linkedin.com/in/tushar-khete-4016201a0//)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/tusharkhete)](https://www.kaggle.com/tusharkhete)
 [![Twitter Badge](https://img.shields.io/badge/-@AtharvaIngle7-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KheteTushar)](https://twitter.com/KheteTushar)
 <!-- [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/) -->
