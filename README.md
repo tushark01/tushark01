@@ -27,11 +27,11 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" /> -->
 
-- 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
-- 🌱 I’m currently learning GANs, MLOPs and DSA
-- 👯 I’m looking to collaborate on Kaggle Competitions
-- 🤔 I’m looking for help with currently nothing 😁
-- ⚡ Fun fact: I am a Kaggle 3X Expert and highly active [there](https://www.kaggle.com/atharvaingle)
+- 🔭 I'm into Machine Learning, Deep Learning, Computer vision, & NLP
+- 🌱 I’m currently learning GANs, Futter and Wordpress
+- 👯 I’m looking to collaborate on ML Research
+- 🤔 I’m looking for help with currently nothing 🎶
+- ⚡ Hobby: Checkout my hobby [here](https://instagram.com/_atpixel_?utm_medium=copy_link)
 
 ### I am currently working on:
 - ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
