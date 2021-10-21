@@ -94,4 +94,4 @@
 ---
 [![Tushar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tushark01&theme=react-dark&hide_border=true)](https://github.com/tushark01/)
 
-![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Gladiator07&theme=tokyonight&show_icons=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gladiator07&theme=tokyonight)](https://git.io/streak-stats)
+![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tushark01&theme=tokyonight&show_icons=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tushark01&theme=tokyonight)](https://git.io/streak-stats)
