@@ -1,17 +1,16 @@
 
-<h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Atharva</h1>
-<h3 align="center">Interested in anything related to AI</h3>
+<h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Tushar</h1>
+<h3 align="center">Interested in anything related to AI, ML</h3>
 
 
-![](https://komarev.com/ghpvc/?username=Gladiator07)
+![](https://komarev.com/ghpvc/?username=tushark01)
 
-<h5 align="center"><i>(Feel free to reach to me via any social-media platforms below if you want to have a talk)</i></h5>
+<h5 align="center"><i>(You can reach to me via any social-media platforms below for any discussion!)</i></h5>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Atharva_Ingle-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-ingle-564430187/)](https://www.linkedin.com/in/atharva-ingle-564430187/)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/atharvaingle)](https://www.kaggle.com/atharvaingle)
-[![Website Badge](https://img.shields.io/badge/-atharva_ai-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://atharvaai7.wordpress.com/)](https://atharvaai7.wordpress.com/)
-[![Twitter Badge](https://img.shields.io/badge/-@AtharvaIngle7-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AtharvaIngle7)](https://twitter.com/AtharvaIngle7)
+[![Linkedin Badge](https://img.shields.io/badge/-Atharva_Ingle-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tushar-khete-4016201a0//)](https://www.linkedin.com/in/tushar-khete-4016201a0//)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/tusharkhete)](https://www.kaggle.com/tusharkhete)
+[![Twitter Badge](https://img.shields.io/badge/-@AtharvaIngle7-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KheteTushar)](https://twitter.com/KheteTushar)
 <!-- [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/) -->
 [![Gmail Badge](https://img.shields.io/badge/-atharvaaingle-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atharvaaingle@gmail.com)](mailto:atharvaaingle@gmail.com)
 
