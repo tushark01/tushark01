@@ -10,9 +10,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tushar_Khete-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tushar-khete-4016201a0//)](https://www.linkedin.com/in/tushar-khete-4016201a0//)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/tusharkhete)](https://www.kaggle.com/tusharkhete)
-[![Twitter Badge](https://img.shields.io/badge/-@AtharvaIngle7-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KheteTushar)](https://twitter.com/KheteTushar)
-<!-- [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/) -->
-[![Gmail Badge](https://img.shields.io/badge/-atharvaaingle-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atharvaaingle@gmail.com)](mailto:atharvaaingle@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@KheteTushar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KheteTushar)](https://twitter.com/KheteTushar)
+<!-- [![Medium Badge](https://img.shields.io/badge/-tushar_khete-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://tusharkhete118.medium.com/)](https://tusharkhete118.medium.com/) -->
+[![Gmail Badge](https://img.shields.io/badge/-tusharkhete-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tusharkhete118@gmail.com)](mailto:tusharkhete118@gmail.com)
 
 
 <!-- [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)
