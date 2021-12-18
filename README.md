@@ -28,7 +28,7 @@
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" /> -->
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, & NLP
-- 🌱 I’m currently learning GANs, Futter and Wordpress
+- 🌱 I’m currently learning GANs, DSA & javascript
 - 👯 I’m looking to collaborate on ML Research
 - 🤔 I’m looking for help with currently nothing 🎶
 - ⚡ Hobby: Checkout my hobby [here](https://instagram.com/_atpixel_?utm_medium=copy_link)
