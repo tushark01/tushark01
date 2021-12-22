@@ -11,7 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Tushar_Khete-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tushar-khete-4016201a0//)](https://www.linkedin.com/in/tushar-khete-4016201a0//)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/tusharkhete)](https://www.kaggle.com/tusharkhete)
 [![Twitter Badge](https://img.shields.io/badge/-@KheteTushar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KheteTushar)](https://twitter.com/KheteTushar)
-<!-- [![Medium Badge](https://img.shields.io/badge/-tushar_khete-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://tusharkhete118.medium.com/)](https://tusharkhete118.medium.com/) -->
+[![Medium Badge](https://img.shields.io/badge/-@tushakhete118-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@tusharkhete118/)](https://medium.com/@tusharkhete118)
 [![Gmail Badge](https://img.shields.io/badge/-tusharkhete-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tusharkhete118@gmail.com)](mailto:tusharkhete118@gmail.com)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tushark01&theme=onedark)](https://github.com/tushark01/github-profile-trophy)
