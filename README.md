@@ -16,6 +16,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tushark01&theme=onedark)](https://github.com/tushark01/github-profile-trophy)
 
+![](https://gitwar.herokuapp.com/badge?username=tushark01)
+
 
 <!-- [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)
