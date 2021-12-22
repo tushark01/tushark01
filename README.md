@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/tushark01/tushark01/main/name.svg" alt="TUSHAR KHETE " />
-</h1>
 
 <h1 align="center">Howdy ! <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Tushar</h1>
 <h3 align="center">Interested in anything related to AI, ML</h3>
