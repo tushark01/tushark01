@@ -14,6 +14,8 @@
 <!-- [![Medium Badge](https://img.shields.io/badge/-tushar_khete-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://tusharkhete118.medium.com/)](https://tusharkhete118.medium.com/) -->
 [![Gmail Badge](https://img.shields.io/badge/-tusharkhete-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tusharkhete118@gmail.com)](mailto:tusharkhete118@gmail.com)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=tushark01)](https://github.com/tushark01/github-profile-trophy)
+
 
 <!-- [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)
