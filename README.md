@@ -16,7 +16,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tushark01&theme=onedark)](https://github.com/tushark01/github-profile-trophy)
 
-![](https://gitwar.herokuapp.com/badge?username=tushark01)
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 
 <!-- [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)
