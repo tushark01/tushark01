@@ -35,6 +35,7 @@
 - 👯 I’m looking to collaborate on ML Research
 - 🤔 I’m looking for help with currently nothing 🎶
 - ⚡ Hobby: Checkout my hobby [here](https://instagram.com/_atpixel_?utm_medium=copy_link)
+- 🕶 Fun fact: I'm a huge fan of Harry Potter
 
 
 ### Recent Projects 🎉🎉
