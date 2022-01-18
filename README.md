@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=tushark01)
 
-<h5 align="center"><i>(You can reach to me via any social-media platforms below for any discussion!)</i></h5>
+<h5 align="center"><i>(Contact me via ->)</i></h5>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tushar_Khete-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tushar-khete-4016201a0//)](https://www.linkedin.com/in/tushar-khete-4016201a0//)
