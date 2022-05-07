@@ -42,6 +42,7 @@
 
 
 ### Recent Projects 🎉🎉
+- [NLP Text Sentiment Analyzer](https://github.com/tushark01/Text-Sentiment-Analyzer-Flask-app)
 - [Iris Biometrics](https://github.com/tushark01/Iris-Biometrics)
 - [Face Engine](https://github.com/tushark01/FaceEngine)
 - [OCR for visually impaired](https://github.com/tushark01/OCR-gTTS-)
