@@ -38,7 +38,7 @@
 - 🤔 I’m looking for help with currently nothing 🎶
 - ⚡ Hobby: Checkout my hobby [here](https://instagram.com/_atpixel_?utm_medium=copy_link)
 - 🕶 Fun fact: I ❤ cricket & 90's Music.
-- 🏏 IPL -> #KKRHaiTaiyaar 💜!!
+- 🏏 IPL -> #KKR
 
 
 ### Recent Projects 🎉🎉
