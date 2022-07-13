@@ -105,4 +105,5 @@
 ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tushark01&theme=tokyonight&show_icons=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tushark01&theme=tokyonight)](https://git.io/streak-stats)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vepipg5ig54u4umgne1tk48pk&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+#### Recently Played 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vepipg5ig54u4umgne1tk48pk&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/tushark01/spotify-github-profile)
