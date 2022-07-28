@@ -100,10 +100,22 @@
 <code><img height="30" src="https://www.saashub.com/images/app/service_logos/45/52b54fa6b6bc/large.png?1555655428"></code>
 
 ---
-[![Tushar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tushark01&theme=react-dark&hide_border=true)](https://github.com/tushark01/)
+<table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=tushark01&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Tushar Khete" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tushark01&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Tushar Khete" /></td>
+  </tr>
+</table>
 
-![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tushark01&theme=tokyonight&show_icons=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tushark01&theme=tokyonight)](https://git.io/streak-stats)
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushark01&theme=dark" alt="TusharKhetee" /></p>
+  </div>
 
+ [![tushark01's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tushark01&theme=xcode)](https://git.io/tushark01)
+   
+   
 
-#### Recently Played 
+[![GitHub followers](https://img.shields.io/github/followers/tushark01.svg?style=social&label=Follow)](https://github.com/tushark01?tab=followers)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vepipg5ig54u4umgne1tk48pk&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/tushark01/spotify-github-profile)
