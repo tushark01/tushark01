@@ -15,7 +15,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-imtushar__-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/imtushar__/)](https://instagram.com/imtushar__)
 [![Gmail Badge](https://img.shields.io/badge/-tusharkhete-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tusharkhete118@gmail.com)](mailto:tusharkhete118@gmail.com)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tushark01&theme=onedark)](https://github.com/tushark01/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tushark01&theme=darkhub)](https://github.com/tushark01/github-profile-trophy)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/tushark01/github-readme-quotes)
 
