@@ -114,7 +114,8 @@
   </div>
 
  [![tushark01's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tushark01&theme=xcode)](https://git.io/tushark01)
-   
+ 
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/AlphaKnight?ext=contest)
    
 
 [![GitHub followers](https://img.shields.io/github/followers/tushark01.svg?style=social&label=Follow)](https://github.com/tushark01?tab=followers)
