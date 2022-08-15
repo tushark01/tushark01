@@ -120,4 +120,3 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/tushark01.svg?style=social&label=Follow)](https://github.com/tushark01?tab=followers)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vepipg5ig54u4umgne1tk48pk&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/tushark01/spotify-github-profile)
