@@ -1,7 +1,7 @@
 <h2 align="center">"Tell me and I forget, teach me and I may remember, involve me and I learn."</h2>
 <h2 align="center">Howdy ! <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, <a href="https://www.linkedin.com/in/tushar-khete-4016201a0/" target="_blank"> I'm Tushar</h2>
 
-<h3 align="center"> AI Engineer | ML Engineer | Aspiring Data Scientist </h3>
+<h3 align="center"> AI Engineer | ML Engineer | Associate Data Scientist </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=tushark01&label=Profile%20views&color=6805D3&style=flat" alt="TusharKhete" /> </p></h3>
 
