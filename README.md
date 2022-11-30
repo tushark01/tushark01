@@ -42,6 +42,7 @@
 
 
 ### Recent Projects 🎉🎉
+- [AI Multi Disease Predictor](https://github.com/tushark01/AIDiseasePredictor)
 - [A Simple Portfolio Website](https://github.com/tushark01/tushark01.github.io)
 - [NLP Text Sentiment Analyzer](https://github.com/tushark01/Text-Sentiment-Analyzer-Flask-app)
 - [Iris Biometrics](https://github.com/tushark01/Iris-Biometrics)
