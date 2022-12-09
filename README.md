@@ -32,7 +32,7 @@
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" /> -->
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, & NLP
-- 🌱 I’m currently learning GANs, DSA & Hustling on Leetcode 💪
+- 🌱 I’m currently learning MLOPs 💪
 - 👯 I’m looking to collaborate on OCR-AI Research
 - 👏 Very much interested in Autonomous Driving
 - 🤔 I’m looking for help with currently nothing 🎶
