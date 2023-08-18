@@ -3,6 +3,11 @@
 
 <h3 align="center"> AI Engineer | ML Engineer | Associate Data Scientist </h3>
 
+&nbsp;<div align="center">
+  [![Spotify](https://tushark01.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
+
+
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=tushark01&label=Profile%20views&color=6805D3&style=flat" alt="TusharKhete" /> </p></h3>
 
 <h5 align="center"><i>(Contact me via ->)</i></h5>
