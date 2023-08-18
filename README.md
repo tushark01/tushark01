@@ -3,6 +3,10 @@
 
 <h3 align="center"> AI Engineer | ML Engineer | Associate Data Scientist </h3>
 
+<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/tushark01/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=tushark01&label=Profile%20views&color=6805D3&style=flat" alt="TusharKhete" /> </p></h3>
 
 <h5 align="center"><i>(Contact me via ->)</i></h5>
