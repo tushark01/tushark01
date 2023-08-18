@@ -3,9 +3,6 @@
 
 <h3 align="center"> AI Engineer | ML Engineer | Associate Data Scientist </h3>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vepipg5ig54u4umgne1tk48pk&count={count})
-
-
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=tushark01&label=Profile%20views&color=6805D3&style=flat" alt="TusharKhete" /> </p></h3>
 
 <h5 align="center"><i>(Contact me via ->)</i></h5>
