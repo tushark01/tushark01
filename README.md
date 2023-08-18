@@ -3,7 +3,7 @@
 
 <h3 align="center"> AI Engineer | ML Engineer | Associate Data Scientist </h3>
 
-&nbsp;<div align="center">
+<div align="center">
   [![Spotify](https://tushark01.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
