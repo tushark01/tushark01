@@ -31,10 +31,10 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" /> -->
 
-- 🔭 I'm into Machine Learning, Deep Learning, Computer vision, & NLP
-- 🌱 I’m currently learning MLOPs 💪
-- 👯 I’m looking to collaborate on OCR-AI Research
-- 👏 Very much interested in Autonomous Driving
+- 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP, AI, LLMS
+- 🌱 I’m currently exploring SAFE AI
+- 👯 I’m looking to collaborate on AI
+- 👏 Very much interested in GenAI & AI Research
 - 🤔 I’m looking for help with currently nothing 🎶
 - ⚡ Hobby: Checkout my hobby [here](https://instagram.com/_atpixel_?utm_medium=copy_link)
 - 🕶 Fun fact: I ❤ cricket & 90's Music.
@@ -42,18 +42,11 @@
 
 
 ### Recent Projects 🎉🎉
+- [Resume-ATS-zephyr-7b-alpha](https://github.com/tushark01/Resume-ATS-zephyr-7b-alpha)
+- [GenAI Image to Voice Descriptio](https://github.com/tushark01/GenAI-Image-to-Voice-Description)
+- [DocChat](https://github.com/tushark01/DocChat)
 - [AI Multi Disease Predictor](https://github.com/tushark01/AIDiseasePredictor)
-- [A Simple Portfolio Website](https://github.com/tushark01/tushark01.github.io)
-- [NLP Text Sentiment Analyzer](https://github.com/tushark01/Text-Sentiment-Analyzer-Flask-app)
-- [Iris Biometrics](https://github.com/tushark01/Iris-Biometrics)
-- [Face Engine](https://github.com/tushark01/FaceEngine)
-- [OCR for visually impaired](https://github.com/tushark01/OCR-gTTS-)
-- [FirstAidBot](https://github.com/tushark01/First-Aid-ChatBot)
-- [FakeInstaDetection using ANNs](https://github.com/tushark01/Fake_Instagram_Detection_Using_ANNs)
-- [ML-cropRecommender](https://github.com/tushark01/ML-Crop-Recommender)
-- [Real-Time-Stock-Market-Analysis](https://github.com/tushark01/Real-Time-Stock-Market-Analysis)
-
-
+  
 
 ### Tools and Technologies:
 
