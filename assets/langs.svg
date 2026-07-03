@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="230" viewBox="0 0 400 230">
+  <defs><linearGradient id="brd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06B6D4"/><stop offset="1" stop-color="#6D28D9"/></linearGradient></defs>
+  <rect x="1" y="1" width="398" height="228" rx="14" fill="#0D1117" stroke="url(#brd)" stroke-width="2"/>
+  <text x="40" y="46" font-size="18" font-weight="800" font-family="'Segoe UI',sans-serif" fill="url(#brd)">Most Used Languages</text>
+  <rect x="40" y="70" width="320" height="14" rx="7" fill="#21262D"/>
+  <clipPath id="round"><rect x="40" y="70" width="320" height="14" rx="7"/></clipPath>
+  <g clip-path="url(#round)"><rect x="40" y="70" width="160" height="14" fill="#DA5B0B"/><rect x="200" y="70" width="118.72" height="14" fill="#3572A5"/><rect x="318.72" y="70" width="18.240000000000002" height="14" fill="#e34c26"/><rect x="336.96000000000004" y="70" width="13.759999999999998" height="14" fill="#00B4AB"/><rect x="350.72" y="70" width="9.28" height="14" fill="#563d7c"/></g>
+  <g transform="translate(40 115)">
+    <circle cx="6" cy="-4" r="6" fill="#DA5B0B"/>
+    <text x="22" y="0" font-size="14" font-family="'Segoe UI',sans-serif" fill="#C9D1D9">Jupyter Notebook</text>
+    <text x="320" y="0" text-anchor="end" font-size="14" font-weight="700" font-family="'Segoe UI',sans-serif" fill="#FFFFFF">50%</text>
+  </g><g transform="translate(40 139)">
+    <circle cx="6" cy="-4" r="6" fill="#3572A5"/>
+    <text x="22" y="0" font-size="14" font-family="'Segoe UI',sans-serif" fill="#C9D1D9">Python</text>
+    <text x="320" y="0" text-anchor="end" font-size="14" font-weight="700" font-family="'Segoe UI',sans-serif" fill="#FFFFFF">37.1%</text>
+  </g><g transform="translate(40 163)">
+    <circle cx="6" cy="-4" r="6" fill="#e34c26"/>
+    <text x="22" y="0" font-size="14" font-family="'Segoe UI',sans-serif" fill="#C9D1D9">HTML</text>
+    <text x="320" y="0" text-anchor="end" font-size="14" font-weight="700" font-family="'Segoe UI',sans-serif" fill="#FFFFFF">5.7%</text>
+  </g><g transform="translate(40 187)">
+    <circle cx="6" cy="-4" r="6" fill="#00B4AB"/>
+    <text x="22" y="0" font-size="14" font-family="'Segoe UI',sans-serif" fill="#C9D1D9">Dart</text>
+    <text x="320" y="0" text-anchor="end" font-size="14" font-weight="700" font-family="'Segoe UI',sans-serif" fill="#FFFFFF">4.3%</text>
+  </g><g transform="translate(40 211)">
+    <circle cx="6" cy="-4" r="6" fill="#563d7c"/>
+    <text x="22" y="0" font-size="14" font-family="'Segoe UI',sans-serif" fill="#C9D1D9">CSS</text>
+    <text x="320" y="0" text-anchor="end" font-size="14" font-weight="700" font-family="'Segoe UI',sans-serif" fill="#FFFFFF">2.9%</text>
+  </g>
+</svg>
