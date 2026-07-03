@@ -144,8 +144,8 @@ Root LLM gets a **Python sandbox** and delegates focused sub-questions to cheape
 ## <img src="https://media.giphy.com/media/Pc5CVsziBAlHRlmDCC/giphy.gif" width="30"> &nbsp; GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tushark01&show_icons=true&count_private=true&hide_border=true&title_color=06B6D4&icon_color=6D28D9&text_color=C9D1D9&bg_color=0D1117" alt="stats"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushark01&layout=compact&hide_border=true&langs_count=8&title_color=06B6D4&text_color=C9D1D9&bg_color=0D1117" alt="langs"/>
+  <img width="49%" src="https://raw.githubusercontent.com/tushark01/tushark01/main/assets/stats.svg" alt="stats"/>
+  <img width="42%" src="https://raw.githubusercontent.com/tushark01/tushark01/main/assets/langs.svg" alt="langs"/>
 </p>
 
 <p align="center">
@@ -157,7 +157,7 @@ Root LLM gets a **Python sandbox** and delegates focused sub-questions to cheape
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tushark01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
+  <img width="95%" src="https://raw.githubusercontent.com/tushark01/tushark01/main/assets/achievements.svg" alt="achievements"/>
 </p>
 
 <!-- ─────────────────────────  CHESS  ───────────────────────── -->
