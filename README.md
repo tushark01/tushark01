@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/tushark01">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,30:6D28D9,70:2563EB,100:06B6D4&height=260&section=header&text=Tushar%20Khete&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20Building%20Autonomous%20Agents%20%26%20LLM%20Systems&descSize=20&descAlignY=60&descAlign=50" alt="header"/>
+  <img width="100%" src="https://raw.githubusercontent.com/tushark01/tushark01/main/assets/header.svg" alt="header"/>
 </a>
 
 <p align="center">
